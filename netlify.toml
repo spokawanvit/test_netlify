@@ -1,0 +1,3 @@
+[build]
+command = "pip install -r sphinx && make html"
+publish = "build/html"
